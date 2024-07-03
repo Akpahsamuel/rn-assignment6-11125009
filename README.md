@@ -1,5 +1,3 @@
-
-
 Project Name: React Native Shopping Cart App
 
 Description:
@@ -22,12 +20,4 @@ Data is serialized (converted to a string) before storing it in AsyncStorage usi
 When retrieving data from AsyncStorage, it's deserialized (converted back to an object) using JSON.parse().
 Screenshots of the app created
 
-
-
-
-
-
-
-
-
-
+![Alt text](./img1.jpeg)
